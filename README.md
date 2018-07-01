@@ -14,8 +14,7 @@ in the following order:
 3. `Recommend.ipynb`, run this notebook to make recommendations for playlists in the challenge set.
 
 
-
-Required Python (version 3.6) libraries:
+To run the above notebooks, install [Python](https://www.python.org/) (version 3.6) as well as the following libraries (e.g., via [conda](https://conda.io/docs/)):
 
 - [Numpy](http://www.numpy.org/), version 1.14.3
 - [Scipy](https://scipy.org/scipylib/index.html), version 1.1.0
@@ -23,7 +22,6 @@ Required Python (version 3.6) libraries:
 - [PyTorch](https://pytorch.org/), version 0.4.0
 - [Jupyter](http://jupyter.org/index.html), version 1.0
 - [tqdm](https://pypi.org/project/tqdm/), version 4.23.4
-
 
 
 Copyright 2018 Dawei Chen. All Rights Reserved.

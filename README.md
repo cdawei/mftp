@@ -15,9 +15,8 @@ in the following order:
 
 
 
-Required libraries:
+Required Python (version 3.6) libraries:
 
-- [Python](https://www.python.org/), version 3.6
 - [Numpy](http://www.numpy.org/), version 1.14.3
 - [Scipy](https://scipy.org/scipylib/index.html), version 1.1.0
 - [Tensorflow](https://www.tensorflow.org/), version 1.8.0
